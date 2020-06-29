@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     this is a predator test!
+     this is a chicken test!
     </div>
   );
 }
